@@ -9,9 +9,9 @@ function reloadPresence(client) {
         .setName("CHANDU ON TOP") //name of your activity
         .setDetails("NO REPLY = OFFLINE") //detail activity
         .setStartTimestamp(global.startTime)
-        .setAssetsLargeImage("mp:icons/1120755328267583559/a65ec7583c9986ea1faf8c3f02259916.webp")
+        .setAssetsLargeImage("https://cdn.discordapp.com/avatars/1054360093526855680/a_ba60e397ab487d6b554a12466ba3311a.gif?size=1024")
         .setAssetsLargeText("Chandu")
-        .setAssetsSmallImage("mp:avatars/390832676778803200/f72c077c48fb9b5c42a1d44330ec5f22.png")
+        .setAssetsSmallImage("https://discord.com/channels/907877138286391317/1104302917386764388/1211998032308998195")
         .setAssetsSmallText("Chandu")
         .addButton('Discord', "https://discord.com/invite/FGU7vhnmPK")
         .addButton('Join', "https://discord.com/invite/FGU7vhnmPK")
